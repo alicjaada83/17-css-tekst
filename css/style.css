@@ -1,0 +1,13 @@
+section{
+    text-align: center;
+}
+header{
+    color: #0000ff;
+    font-size: xx-large;
+}
+p{
+    font-size: large;
+}
+span.czerwony {
+    color: #ff0000;
+}
